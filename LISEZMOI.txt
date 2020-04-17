@@ -1,1 +1,3 @@
 Nouveau fichier texte dans mon dossier GIT.
+
+Nouvelle ligne de texte dans LISEZMOI
